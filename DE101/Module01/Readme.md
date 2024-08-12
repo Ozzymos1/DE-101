@@ -8,3 +8,5 @@
 
 
 ## Аналитика в Excel
+Результат - Sample - Superstore-KEV.xlsx
+
