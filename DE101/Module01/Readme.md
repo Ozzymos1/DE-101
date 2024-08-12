@@ -10,4 +10,4 @@
 ## Аналитика в Excel
 Результат - Sample - Superstore-KEV.xlsx
 
-![alt text](DE101/Module01/Screenshot_dashboard.png)
+![скриншот](https://github.com/Ozzymos1/DataLearn/blob/main/DE101/Module01/Screenshot_dashboard.png?raw=true)
