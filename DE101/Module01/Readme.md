@@ -10,3 +10,4 @@
 ## Аналитика в Excel
 Результат - Sample - Superstore-KEV.xlsx
 
+![alt text](DE101/Module01/Screenshot_dashboard.png)
