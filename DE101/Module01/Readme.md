@@ -6,6 +6,7 @@
 
 ## Архитектура Аналитического Решения
 
+![скриншот](https://github.com/Ozzymos1/DataLearn/blob/main/DE101/Module01/Diagram_01.png?raw=true)
 
 ## Аналитика в Excel
 Результат - Sample - Superstore-KEV.xlsx
